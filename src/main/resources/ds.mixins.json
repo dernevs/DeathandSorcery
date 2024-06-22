@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.dernevs.ds.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin",
+    "PiglinBrainMixin",
+    "PlayerEntityMixin",
+    "PortalForcerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

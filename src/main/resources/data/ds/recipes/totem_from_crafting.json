@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "ds:pure_emerald"
+    },
+    "O": {
+      "item": "ds:totem_fragment"
+    },
+    "S": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "GSG",
+    " O "
+  ],
+  "result": {
+    "item": "minecraft:totem_of_undying"
+  },
+  "show_notification": true
+}

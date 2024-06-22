@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ds",
+	"version": "${version}",
+	"name": "Death and Sorcery",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"dernevs"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ds/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dernevs.ds.DeathAndSorcery"
+		],
+		"fabric-datagen": [
+			"net.dernevs.ds.DeathAndSorceryDataGenerator"
+		],
+		"client": [
+			"net.dernevs.ds.DeathAndSorceryClient"
+		]
+	},
+	"mixins": [
+		"ds.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/blackstone_top",
+    "east": "ds:block/nether_table_side_two",
+    "north": "ds:block/nether_table_front",
+    "particle": "ds:block/nether_table_front",
+    "south": "ds:block/nether_table_side",
+    "up": "ds:block/nether_table_top",
+    "west": "ds:block/nether_table_front_two"
+  }
+}

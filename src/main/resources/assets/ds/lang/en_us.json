@@ -1,0 +1,26 @@
+{
+  "block.ds.trading_block": "Trading Block",
+  "block.ds.nether_table": "Nether Table",
+  "block.ds.ender_block": "Ender Block",
+  "block.ds.flaming_netherite_block": "Flaming Netherite Block",
+  "block.ds.gilded_netherite_block": "Gilded Netherite Block",
+  "block.minecraft.pitcher_plant": "Bitcher Plant",
+  "block.ds.nether_forge": "Nether Forge",
+
+
+  "item.ds.ender_transporter": "Ender Transporter",
+  "item.ds.pure_emerald": "Pure Emerald",
+  "item.ds.totem_fragment": "Totem Fragment",
+  "item.ds.ender_ingot":"Ender Ingot",
+  "item.ds.flaming_netherite_ingot":"Flaming Netherite Ingot",
+  "item.ds.gilded_netherite_ingot":"Gilded Netherite Ingot",
+  "item.ds.shulkerite_ingot":"Shulkerite Ingot",
+  "item.minecraft.pitcher_pod": "Bitcher Pod",
+
+  "itemgroup.ds1": "Death and Sorcery 1.0",
+  "itemgroup.wip": "Work In Progress",
+
+
+  "death.attack.death_kill": "%1$s met their fate",
+  "death.attack.dust_lung_damage": "%1$s choked to death"
+}
